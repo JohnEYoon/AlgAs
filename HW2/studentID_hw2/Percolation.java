@@ -3,8 +3,8 @@
  *
  *  - Percolation data structure
  *
- * @ Student ID :
- * @ Name       :
+ * @ Student ID : 20120195
+ * @ Name       : Yoon Hyowon
  **/
 
 import java.util.Scanner;
